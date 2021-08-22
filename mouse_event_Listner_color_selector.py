@@ -10,7 +10,14 @@ Created on Sun Aug 22 23:41:29 2021
 Created on Sun Aug 22 16:26:38 2021
 
 @author: aakash
+
+
+
 """
+'''you need to  download lion.jpg file
+and make sure that both jpg and py file
+should be in the same folder.'''  
+
 
 import numpy as np
 import cv2
